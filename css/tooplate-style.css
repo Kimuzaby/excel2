@@ -978,11 +978,11 @@ p.center-date {
     transform: rotate(180deg);
   }
 #porcion3 {
-    transform: rotate(215deg);
+    transform: rotate(80deg);
   }
 #porcion3 .quesito {
-    background-color: #4FC4F6;
-    transform: rotate(113deg);
+    background-color: #11A8AB;
+    transform: rotate(30deg);
   }
 #porcionFin {
     transform:rotate(-32deg);
