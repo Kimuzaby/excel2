@@ -737,7 +737,7 @@ border-top-right-radius: 5px;
     float: left;
   }
     .block {
-      margin: 25px 25px 0 0;
+      margin: 40px 40px 0 0;
       margin-left: auto;
       margin-bottom: 30px;
       background: #394264;
@@ -968,7 +968,7 @@ p.center-date {
 
 #porcion1 .quesito {
     background-color: #E64C65;
-    transform: rotate(170deg);
+    transform: rotate(180deg);
   }
 #porcion2 {
     transform: rotate(90deg);
@@ -978,11 +978,11 @@ p.center-date {
     transform: rotate(180deg);
   }
 #porcion3 {
-    transform: rotate(80deg);
+    transform: rotate(215deg);
   }
 #porcion3 .quesito {
-    background-color: #11A8AB;
-    transform: rotate(30deg);
+    background-color: #4FC4F6;
+    transform: rotate(113deg);
   }
 #porcionFin {
     transform:rotate(-32deg);
